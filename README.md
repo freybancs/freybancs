@@ -1,6 +1,6 @@
 ## https://test-inky-nu-68.vercel.app/nombre
 # Freyban Contreras
-### _Analista QA _
+### _Analista QA_
 
 Actualmente me encuentro estudiando en el bootcamp de **UndefineShell**. 
 
