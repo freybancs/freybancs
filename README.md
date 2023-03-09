@@ -1,4 +1,3 @@
-## https://test-inky-nu-68.vercel.app/nombre
 # Freyban Contreras
 ### _Analista QA_
 
@@ -67,7 +66,7 @@ Son comandos al cual le aplicamos una abreviatura paras referirnos a un comando 
 
 
 <!--
-**freybancs/freybancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**freybancs/freybancs** is a ✨ _## https://test-inky-nu-68.vercel.app/nombre_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
