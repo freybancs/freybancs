@@ -12,8 +12,9 @@ Actualmente me encuentro estudiando en el bootcamp de **UndefineShell**.
 
 -📚 En cuanto a conocimientos y herramientas, Trello, SQL Server, HP ALM, y actualmente aprendiendo Postman y JavaScript.
 
-## Conocimientos 2
+## Conocimientos 
 
+- GIT
 - MySQL.
 - HTML5 & CSS3.
 - JavaScript.
@@ -47,22 +48,22 @@ Actualmente me encuentro estudiando en el bootcamp de **UndefineShell**.
 Los siguientes comandos me parecen super útilies para empezar
 a trabajar con la terminal.
 
-| Comando | Descripción |
-| ------ | ------ |
-| whoami | Muestra el nombre del usuario actual. |
-| ls | Muestra una lista de los archivos de la carpeta actual. |
-| cd | Nos permite acceder a una carpeta específica. |
-| pwd | Nos muestra la ruta absoluta de donde estamos ubicados. |
-| Code | Este comando nos abre directamente el Visual Studio Code |
+| Comando | Descripción                                              |
+| ------- | ---------------------------------------------------------|
+| whoami  | Muestra el nombre del usuario actual.                    |
+| ls      | Muestra una lista de los archivos de la carpeta actual.  |
+| cd      | Nos permite acceder a una carpeta específica.            |
+| pwd     | Nos muestra la ruta absoluta de donde estamos ubicados.  |
+| Code    | Este comando nos abre directamente el Visual Studio Code |
 
 ## Comandos Alias
 
 Son comandos al cual le aplicamos una abreviatura paras referirnos a un comando en el sistema.
 
-| Comando Alias | Descripción |
-| ------ | ------ |
+| Comando Alias | Descripción                                                                           |
+| ------------- | ------------------------------------------------------------------------------------- |
 | alias gh="history grep" | Encontrar un comando en el historial de la terminal mediante el comando gh. |
-| alias ip="curl icanhazip.com" | Saber nuestra ip pública desde la terminal con el comando ip. |
+| alias ip="curl icanhazip.com" | Saber nuestra ip pública desde la terminal con el comando ip.         |
 
 
 <!--
